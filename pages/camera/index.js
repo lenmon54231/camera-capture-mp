@@ -8,9 +8,11 @@ Page({
   onReady() {},
 
   cameraInitDone() {
-    this.setData({
-      isPause: false,
-    });
+    setTimeout(() => {
+      this.setData({
+        isPause: false,
+      });
+    }, 2000);
   },
 
   capture(filePath) {
