@@ -1,0 +1,7 @@
+{
+  "usingComponents": {    
+    "camera-capture-mp":"../../components/camera-capture-mp/index"
+  },
+  "disableScroll": true,
+  "navigationStyle": "custom"
+}

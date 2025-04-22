@@ -1,0 +1,3 @@
+<view class="main-container">
+   <button bind:tap="toCamera">跳转相机页面</button>
+</view>

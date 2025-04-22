@@ -1,0 +1,5 @@
+<camera-capture-mp
+  isPause="{{isPause}}"
+  bind:capture="capture"
+  bind:cameraInitDone="cameraInitDone"
+/>

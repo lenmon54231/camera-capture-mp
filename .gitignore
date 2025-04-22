@@ -1,0 +1,26 @@
+# Windows
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
+# Node.js
+node_modules
+
+# local
+project.private.config.json
+
+# miniprogram
+miniprogram_npm
+
+#assets
+assets-config.js
+
+# compressed
+compressed/output

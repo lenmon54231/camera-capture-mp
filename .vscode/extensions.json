@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "qiu8310.minapp-vscode",
+    "wayou.vscode-todo-highlight",
+    "editorconfig.editorconfig",
+    "streetsidesoftware.code-spell-checker",
+    "crazyurus.miniprogram-vscode-extension",
+    "cipchk.cssrem",
+    "esbenp.prettier-vscode",
+    "minapp-vscode.wxmlFormatter"
+  ]
+}
