@@ -1,8 +1,8 @@
 {
   "name": "camera-capture-mp",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "type": "module",
-  "description": "Generate poster using canvas through the configuration in miniprogram",
+  "description": "use camera to generate screenshot,and return file path.",
   "main": "app.js",
   "scripts": {
     "build": "node build.js"

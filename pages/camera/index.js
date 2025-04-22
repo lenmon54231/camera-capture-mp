@@ -3,16 +3,10 @@ Page({
     isPause: true,
   },
 
-  onLoad() {},
-
-  onReady() {},
-
   cameraInitDone() {
-    setTimeout(() => {
-      this.setData({
-        isPause: false,
-      });
-    }, 2000);
+    this.setData({
+      isPause: false,
+    });
   },
 
   capture(filePath) {

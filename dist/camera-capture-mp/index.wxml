@@ -1,0 +1,10 @@
+<camera
+  mode="normal"
+  frame-size="{{frameSize}}"
+  device-position="{{devicePosition}}"
+  resolution="{{resolution}}"
+  flash="{{flash}}"
+  bindinitdone="cameraInitDone"
+/>
+
+<canvas type="2d" id="canvas" style="width:{{width}}px;height:{{height}}px;" />
