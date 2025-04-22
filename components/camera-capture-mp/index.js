@@ -125,12 +125,6 @@ Component({
 
         this.triggerEvent("capture", filePath);
 
-        console.log(
-          "this.lastSearchTime + this.properties.interval > Date.now(): ",
-          this.lastSearchTime + this.properties.interval,
-          Date.now()
-        );
-
         // wx.previewImage({
         //   urls: [filePath], // 需要预览的图片路径数组
         //   current: filePath, // 当前显示的图片路径
